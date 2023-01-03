@@ -5,7 +5,7 @@
 </div> 
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alehdzdev/"><img title="LinkedIn" height="25" src="https://www.freeiconspng.com/uploads/linkedin-logo-0.png" style="padding-right: 10px"></a>
+<a href="https://www.linkedin.com/in/alehdzdev/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
 <a href="https://www.instagram.com/alehdzdev/"><img title="Instagram" height="25" src="assets/instagram.png"></a>
 </p>
 
