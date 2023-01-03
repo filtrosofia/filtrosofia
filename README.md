@@ -3,7 +3,7 @@
 # Hi, I'm Rafael Burgos <img src="https://media.giphy.com/media/3U5rmUswe2y5mJ5lim/giphy.gif" widht="50px" height="50px">
   
 </div> 
-<h3 align="center">Contact me</h3>
+<h3 align="center">I'm a SSR QA Software Engineer</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-burgos-ferrer-05b03a161/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
 <a href="https://www.instagram.com/filtrosofia/"><img title="Instagram" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/instagram.png"></a></p>
@@ -13,7 +13,7 @@
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
 <h3 class="title" align="center">About me</h3>
-I'm QA software engineer, working most of the time on the front end area, planning, designing, executing and running Test Cases and bugs to optimize the sfotware applications I'm working in
+I'm QA software engineer, with 17 months of intense experience  working most of the time on the front end area, planning, designing, executing and running Test Cases and bugs to optimize the sfotware applications I'm working in
 
 <p>
   
