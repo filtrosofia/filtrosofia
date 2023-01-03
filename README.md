@@ -3,7 +3,7 @@
 # Hi, I'm Rafael Burgos <img src="https://media.giphy.com/media/3U5rmUswe2y5mJ5lim/giphy.gif" widht="50px" height="50px">
   
 </div> 
-<h3 align="center">I'm a SSR QA Software Engineer</h3>
+<h3 align="center">I'm  QA Software Engineer (SSR)</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rafael-burgos-ferrer-05b03a161/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
 <a href="https://www.instagram.com/filtrosofia/"><img title="Instagram" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/instagram.png"></a></p>
