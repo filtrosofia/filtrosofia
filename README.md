@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rafael Burgos <img src="https://media.giphy.com/media/3U5rmUswe2y5mJ5lim/giphy.gif" widht="50px" height="50px">
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="50px" height="50px">
   
 </div> 
 <h3 align="center">I'm  QA Software Engineer (SSR)</h3>
