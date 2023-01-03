@@ -5,8 +5,8 @@
 </div> 
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alehdzdev/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
-<a href="https://www.instagram.com/alehdzdev/"><img title="Instagram" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/instagram.png"></a></p>
+<a href="https://www.linkedin.com/in/rafael-burgos-ferrer-05b03a161/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
+<a href="https://www.instagram.com/filtrosofia/"><img title="Instagram" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/instagram.png"></a></p>
 
 <hr>
 
