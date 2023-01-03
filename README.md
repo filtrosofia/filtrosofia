@@ -12,7 +12,7 @@
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
-<h3 class="title" align="right">About me</h3>
+<h3 class="title" align="center">About me</h3>
 I'm a software engineer, working most of the time on the backend area, creating, improving and maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
 
 <p>
