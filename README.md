@@ -3,7 +3,7 @@
 ### I'm  QA Software Engineer (SSR)
 
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
 <h3 class="title" align="center">About me</h3>
 I'm QA software engineer, with 17 months of intense experience  working most of the time on the front end area, planning, designing, executing and running Test Cases and bugs to optimize the sfotware applications I'm working in
