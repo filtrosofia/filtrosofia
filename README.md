@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rafael Burgos <img src="https://media.giphy.com/media/LPzYWANeDHAu3wQzVp/giphy.gif" widht="25px" height="25px">
+# Hi, I'm Rafael Burgos <img src="https://media.giphy.com/media/S7gV2xgCKcS6z0Nn08/giphy.gif" widht="25px" height="25px">
   
 </div> 
 <h3 align="center">Contact me</h3>
