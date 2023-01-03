@@ -1,14 +1,7 @@
-<div align="center">
-
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
+### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
   
-</div> 
-<h3 align="center">I'm  QA Software Engineer (SSR)</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/rafael-burgos-ferrer-05b03a161/"><img title="LinkedIn" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/linkedin.png" style="padding-right: 10px"></a>
-<a href="https://www.instagram.com/filtrosofia/"><img title="Instagram" height="25" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/main/Assets/instagram.png"></a></p>
+### I'm  QA Software Engineer (SSR)
 
-<hr>
 
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
