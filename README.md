@@ -23,16 +23,19 @@
   
 ### Technologies I use
 
-<img title="Python" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/IntelliJ_IDEA_Icon.png">
-<img title="Django" height="25" src="assets/django.png">
-<img title="Postgresql" height="25" src="assets/postgre.png">
-<img title="Go" height="25" src="assets/golang.png">
-<img title="Javascript" height="25" src="assets/javascript.png">
-<img title="HTML" height="25" src="assets/html.png">
-<img title="CSS" height="25" src="assets/css.png">
-<img title="Mysql" height="25" src="assets/mysql.png">
-<img title="VSCode" height="25" src="assets/vscode.png">
-<img title="Git" height="25" src="assets/git.png">
-<img title="Gitlab" height="25" src="assets/gitlab.png">
-<img title="Docker" height="25" src="assets/docker.png">
+<img title="IntelliJ_IDEA" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/IntelliJ_IDEA_Icon.png">
+<img title="Jenkins" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/Jenkins_logo_with_title.png">
+<img title="Jira" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/Jira%20Software%402x-blue.png">
+<img title="Postman" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/Postman_(software).png">
+<img title="Agile" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/agile%20scrum.png">
+<img title="Coding" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/coding.gif">
+<img title="dbeaver" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/dbeaver.png">
+<img title="Github" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/github.png">
+<img title="HTML" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/html.png">
+<img title="Java" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/java-logo-1.png">
+<img title="Office" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/kisspng-logo-microsoft-office-2013-office-365-microsoft-of-kellie-higa-resume-5b6b1c32a05cf7.6307183215337462266569.jpg?raw=true">
+<img title="Postgre" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/postgre.png">
+<img title="Swagger" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/swagger_logo_1.png">
+<img title="Vscode" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/vscode.png">
+<img title="Mysql" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/zephyr.png">
 </p>
