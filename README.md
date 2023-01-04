@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
   
-### I'm  QA Software Engineer (SSR)
+[###](https://www.youtube.com/watch?v=7A6GzKniAl4&ab_channel=Mixel) I'm  QA Software Engineer (SSR)
 
 <hr>
 
@@ -17,7 +17,7 @@
 
 <hr>
 
-### About me
+### Technologies I use
 
 <h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
