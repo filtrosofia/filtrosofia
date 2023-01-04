@@ -9,6 +9,8 @@
 <hr>
 
 #### I'm familiarized with
+  
+<div align="left">
 
 - 💎 Scrum Framework and Agile Methodolgies 
 - 🌍 All types of manual testing
