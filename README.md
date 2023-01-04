@@ -13,7 +13,7 @@
 - ⚙️ I currently can perform, execute and troubleshoot scripts
 - 🦜 Strong and proficient communicational skills (C1)
 - 📗 Currently studying: "Selenium and Javascript"
-- 🎁Fun fact: I have a degree in philosophy that does not define but enriches my profile
+- 🎁Fun fact: I have a degree in philosophy that enriches my profile
 
 <hr>
 
