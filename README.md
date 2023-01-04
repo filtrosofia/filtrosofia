@@ -21,7 +21,7 @@
 
 <hr>
 
-<p align="center">
+div align="center">
   
 ### Technologies I use
 
@@ -40,4 +40,3 @@
 <img title="Swagger" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/swagger_logo_1.png">
 <img title="Vscode" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/vscode.png">
 <img title="Mysql" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/zephyr.png">
-</p>
