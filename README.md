@@ -10,10 +10,9 @@
 
 - ⚙️ Familiarized with Scrum Framework and Agile Methodolgies 
 - 🌍 Experienced with all types of manual testing
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **Testing**, **Cypress**, **Selenium**, **Recourses of testing**, **Development**, **Communities**
-- ⚡️ Fun fact: I'm a big fan of playing computer games like LoL or CS
-- 📫 Reach me: <p align='center'>
+- 🌱 Strong and proficient communicational skills (C1)
+- 💬 Currently studing: "Javascript and Selenium" 
+- ⚡️ Fun fact: I have a degree in philosophy that does not define but enriches my profile
   <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
