@@ -14,9 +14,9 @@
   
 <p align="left">
 
-- 💎 Scrum Framework and Agile Methodolgies 
+- 💎 Scrum Framework and Agile Methodologies 
 - 🌍 All types of manual testing
-- ⚙️ **Automation Testing**: I  can currently perform, execute and troubleshoot automation scripts
+- ⚙️ **Automation Testing**: I  can currently perform/execute, edit and troubleshoot automation scripts
 - 🦜 Strong and proficient communicational skills (English C1)
 - 📗 **Currently studying**: "Selenium and Javascript"
 - 🎁**Fun fact**: I have a degree in philosophy that enriches my profile
