@@ -6,8 +6,6 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
-##### Experi
-
 - ⚙️ Familiarized with Scrum Framework and Agile Methodolgies 
 - 🌍 Experienced with all types of manual testing
 - 🌱 Strong and proficient communicational skills (C1)
@@ -16,7 +14,10 @@
   <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-</p>
+
+<hr>
+
+### About me
 
 <h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
