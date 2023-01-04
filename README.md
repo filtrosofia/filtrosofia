@@ -1,6 +1,6 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
   
-[###](https://www.youtube.com/watch?v=7A6GzKniAl4&ab_channel=Mixel) I'm  QA Software Engineer (SSR)
+### I'm  QA Software Engineer (SSR)
 
 <hr>
 
@@ -18,8 +18,6 @@
 <hr>
 
 ### Technologies I use
-
-<h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
 <img title="Python" height="25" src="assets/python.png">
 <img title="Django" height="25" src="assets/django.png">
@@ -37,7 +35,8 @@
 <hr>
 <h3 align="center">Stats</h3>
 <div align=center>
-  <img align="center" width=100%  height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+  <img align="center" width=100%  height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
+                                                                   rname=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
 </div>
 <hr>
 <!---
