@@ -6,10 +6,10 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
-##### BIO
+##### Experi
 
-- ⚙️ I normally use : `Javascript`, `Typescript`, `Java`
-- 🌍 I'm mostly active within the **Cypress Community**
+- ⚙️ Familiarized with Scrum Framework and Agile Methodolgies 
+- 🌍 Experienced with all types of manual testing
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Testing**, **Cypress**, **Selenium**, **Recourses of testing**, **Development**, **Communities**
 - ⚡️ Fun fact: I'm a big fan of playing computer games like LoL or CS
