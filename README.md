@@ -2,28 +2,35 @@
   
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
 
-## I'm  QA Software Engineer (SSR)
+## I'm  QA Software Engineer (Semi Senior)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
+</div>  
+  
 <hr>
 
 ### I'm familiarized with
   
-<div align="left">
+<p align="left">
 
 - 💎 Scrum Framework and Agile Methodolgies 
 - 🌍 All types of manual testing
-- ⚙️ Automation Testing: I currently can perform, execute and troubleshoot scripts
-- 🦜 Strong and proficient communicational skills (C1)
-- 📗 Currently studying: "Selenium and Javascript"
-- 🎁Fun fact: I have a degree in philosophy that enriches my profile
- 
-<hr>
-
-<div align="center">
+- ⚙️ **Automation Testing**: I  can currently perform, execute and troubleshoot automation scripts
+- 🦜 Strong and proficient communicational skills (English C1)
+- 📗 **Currently studying**: "Selenium and Javascript"
+- 🎁**Fun fact**: I have a degree in philosophy that enriches my profile
   
-## Technologies I use
+</p>
+  
+<div align="center">
+
+  
+<hr> 
+
+### Technologies I use
+  
+
 
 <img title="IntelliJ_IDEA" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/IntelliJ_IDEA_Icon.png">
 <img title="Jenkins" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/Jenkins_logo_with_title.png">
@@ -40,3 +47,21 @@
 <img title="Swagger" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/swagger_logo_1.png">
 <img title="Vscode" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/vscode.png">
 <img title="Mysql" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/zephyr.png">
+
+</div>
+
+<hr> 
+
+<div align="center">
+  
+### Contact me
+
+<a href="https://www.linkedin.com/in/rafael-burgos-ferrer-05b03a161/">
+  <img src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/linkedin.png" widht="25px" height="25px" />
+  <a href="https://www.instagram.com/filtrosofia/">
+  <img src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/instagram.png" widht="25px" height="25px" />
+  <a href="https://wa.me/%3C+573177748649%3E
+">
+  <img src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/gmail.png" widht="25px" height="25px" />
+    
+    
