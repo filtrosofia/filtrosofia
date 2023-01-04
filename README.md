@@ -4,7 +4,7 @@
 
 ## I'm  QA Software Engineer (Semi Senior)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="460" height="261"/>
 
 </div>  
   
