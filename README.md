@@ -18,11 +18,12 @@
 - 🦜 Strong and proficient communicational skills (C1)
 - 📗 Currently studying: "Selenium and Javascript"
 - 🎁Fun fact: I have a degree in philosophy that enriches my profile
+ 
 <hr>
 
 <div align="center">
   
-### Technologies I use
+## Technologies I use
 
 <img title="IntelliJ_IDEA" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/IntelliJ_IDEA_Icon.png">
 <img title="Jenkins" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/Jenkins_logo_with_title.png">
