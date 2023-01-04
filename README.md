@@ -6,13 +6,17 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
-### BIO
-  
-<h3 class="title" align="center">Interests and preferences</h3>
-I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and I am also interested to learn/working with microservices, FastAPI, Golang, GraphQL.
-</p>
-<p>
-Looking for a project with purpose and meaning that lets me help people through software.
+##### BIO
+
+- ⚙️ I normally use : `Javascript`, `Typescript`, `Java`
+- 🌍 I'm mostly active within the **Cypress Community**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Testing**, **Cypress**, **Selenium**, **Recourses of testing**, **Development**, **Communities**
+- ⚡️ Fun fact: I'm a big fan of playing computer games like LoL or CS
+- 📫 Reach me: <p align='center'>
+  <a href="https://www.linkedin.com/in/nicolas-lopez-qa/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 
 <h3 class="title" align="center">Technologies I use</h3>
