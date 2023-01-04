@@ -1,14 +1,14 @@
 <div align="center">
   
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
+## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
 
-### I'm  QA Software Engineer (SSR)
+## I'm  QA Software Engineer (SSR)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="470" height="272"/>
 
 <hr>
 
-#### I'm familiarized with
+### I'm familiarized with
   
 <div align="left">
 
