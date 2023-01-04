@@ -21,7 +21,7 @@
 
 <hr>
 
-div align="center">
+<div align="center">
   
 ### Technologies I use
 
