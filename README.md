@@ -23,7 +23,7 @@
   
 ### Technologies I use
 
-<img title="Python" height="25" src="assets/python.png">
+<img title="Python" height="25" src="https://github.com/filtrosofia/filtrosofia/blob/main/Assets/IntelliJ_IDEA_Icon.png">
 <img title="Django" height="25" src="assets/django.png">
 <img title="Postgresql" height="25" src="assets/postgre.png">
 <img title="Go" height="25" src="assets/golang.png">
