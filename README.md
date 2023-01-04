@@ -19,8 +19,10 @@
 
 <hr>
 
-### Technologies I use
 <p align="center">
+  
+### Technologies I use
+
 <img title="Python" height="25" src="assets/python.png">
 <img title="Django" height="25" src="assets/django.png">
 <img title="Postgresql" height="25" src="assets/postgre.png">
