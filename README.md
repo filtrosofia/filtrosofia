@@ -3,6 +3,9 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" widht="25px" height="25px">
 
 ## I'm  QA Software Engineer (Semi Senior)
+  
+   
+  I am a highly motivated and detail-oriented Junior Software Engineer with a passion for quality assurance and a keen eye for identifying defects. I have a solid understanding of software development life cycle, testing methodologies, and testing tools. In my previous role, I collaborated closely with cross-functional teams to ensure product releases met customer requirements and expectations. I have excellent communication skills and thrive in a team environment. I am eager to continue learning and growing in my career and am excited to bring my skills and dedication to a dynamic team.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/filtrosofia/filtrosofia/00c61bc920da772a86aff63edc8a8cba2de29427/Assets/coding.gif" width="460" height="261"/>
 
